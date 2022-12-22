@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489981190997",
+    "project_id": "vassal-efc61",
+    "storage_bucket": "vassal-efc61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489981190997:android:bdadf7dbbaa25205ea05dc",
+        "android_client_info": {
+          "package_name": "com.tetrix.vassal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489981190997-1n2skn7fqkohsisb2g69ruqgt7i6ecus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetrix.vassal",
+            "certificate_hash": "6fc39fc46f0bfc71efbd6e929a0bb0abf031d52d"
+          }
+        },
+        {
+          "client_id": "489981190997-tjufacij0sngtlj3vmveb7rd3miaj2tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVG4MfLg49LEi_WpB5YJ9xnI0dhqjufg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489981190997-tjufacij0sngtlj3vmveb7rd3miaj2tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
